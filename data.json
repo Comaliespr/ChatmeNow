@@ -1,0 +1,5 @@
+{
+    "greetings": ["Hello", "Hi", "Good morning", "Good afternoon", "Good evening"],
+    "goodbye": ["Goodbye", "Bye", "See you later", "Have a nice day"],
+    "weather": ["What's the weather like today?", "Is it going to rain today?", "What's the temperature today?"]
+}
